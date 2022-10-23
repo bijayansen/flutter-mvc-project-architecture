@@ -1,0 +1,1 @@
+# flutter-mvc-project-architecture
